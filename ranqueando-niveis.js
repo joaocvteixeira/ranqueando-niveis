@@ -32,7 +32,7 @@ while (rank !== "Radiante") {
             rank = "Imortal"
             break
 
-        case XP >= 10001:w
+        case XP >= 10001:
             rank = "Radiante"
             break
     }
